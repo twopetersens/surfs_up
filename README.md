@@ -1,23 +1,16 @@
-# Kickstarting with Excel
+# Oahu Weather Analysis
 
-## Overview of Project
+## Overview of the Statistical Analysis
 
-
-
-### Purpose
-
-
-
-## Analysis and Challenges
-
-
-### Analysis of Outcomes Based on Launch Date
-
-
-### Analysis of Outcomes Based on Goals
-
-
-### Challenges and Difficulties Encountered
+The purpose of the Oahu Weather Analysis was to compare historical temperature trends for the island of Oahu, to inform potential investors of possible weather trends that would be detremental to the success of a Surf and Shake shop. Specifically, we looked at weather trends for the months of June and December, from 2010 through 2015. The analysis was run over multiple years to give an accurate and robust view of favorable or unfavorable patterns. 
 
 ## Results
+
+  The following points detail three key differences in weather between June and December.
+_ dfad
+_
+_
+
+
+## Summary
 
